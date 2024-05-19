@@ -1,2 +1,2 @@
 # Sistema_De_Riego
-Proyecto Evaluativo 
+Proyecto Evaluativo GR
