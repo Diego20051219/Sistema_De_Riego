@@ -95,8 +95,6 @@ Liberias:
 
 Utlizaremos <SoftwareSerial.h> para conectarnos con el modulo bluetooth y asi enviar los datos a otro dispositivo.
 
-![image](https://github.com/Diego20051219/Sistema_De_Riego/assets/161365596/fa692904-013a-4daf-abd8-9e773129e57c)
-
 Observaciones:
 
 Que los componentes a utilizar sean compatibles con el Microcontrolador.
@@ -106,6 +104,9 @@ Utlizar un Lenguaje de programacion compatible con el Microcontrolador.
 Hacer las conexiones en plataformas virtuales para probar y verificar que nuestro proyecto funcione en la vida real.
 
 No superar el prosupuesto indicado 200.000 COP.
+
+
+![image](https://github.com/Diego20051219/Sistema_De_Riego/assets/161365596/fa692904-013a-4daf-abd8-9e773129e57c)
 
 SISTESIS
 
