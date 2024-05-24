@@ -168,6 +168,7 @@ El (tiempoAnterior) lo utlizaremos para Almacenar el tiempo anterior para compar
 Liberias:
 
 Utlizaremos <SoftwareSerial.h> para conectarnos con el modulo bluetooth y asi enviar los datos a otro dispositivo.
+
 Observaciones:
 
 Que los componentes a utilizar sean compatibles con el Microcontrolador.
