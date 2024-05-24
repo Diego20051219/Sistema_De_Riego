@@ -95,7 +95,9 @@ Liberias:
 
 Utlizaremos <SoftwareSerial.h> para conectarnos con el modulo bluetooth y asi enviar los datos a otro dispositivo.
 
-WhatsApp Image 2024-05-22 at 9.34.55 AM.jpegObservaciones:
+![image](https://github.com/Diego20051219/Sistema_De_Riego/assets/161365596/fa692904-013a-4daf-abd8-9e773129e57c)
+
+Observaciones:
 
 Que los componentes a utilizar sean compatibles con el Microcontrolador.
 
